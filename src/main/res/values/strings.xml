@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">groot</string>
+    <string name="Plus">+</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">*</string>
+    <string name="Divide">/</string>
+    <string name="enter_first_value">Enter first value</string>
+    <string name="enter_second_value">Enter second value</string>
+    <string name="download">app_icon</string>
+    <string name="textview">TextView</string>
+    <string name="calculator">calculator</string>
+</resources>
